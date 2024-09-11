@@ -2,3 +2,5 @@
 conda_env/
 exploring_the_limits_of_OOD_detection/
 vision_transformer/
+*.npz
+jax/
