@@ -1,4 +1,4 @@
-name: /mnt/homeGPU/cpelaez/Collaborations/novelty_detection/sota/TEMP/exploring_the_limits_of_OOD_detection/conda_env_build
+name: /mnt/homeGPU/cpelaez/Collaborations/novelty_detection/sota/exploring_the_limits_of_OOD_detection/conda_env_build
 channels:
   - anaconda
   - defaults
@@ -225,4 +225,4 @@ dependencies:
     - wrapt==1.12.1
     - yarl==1.11.1
     - zipp==3.20.1
-prefix: /mnt/homeGPU/cpelaez/Collaborations/novelty_detection/sota/TEMP/exploring_the_limits_of_OOD_detection/conda_env_build
+prefix: /mnt/homeGPU/cpelaez/Collaborations/novelty_detection/sota/exploring_the_limits_of_OOD_detection/conda_env_build
